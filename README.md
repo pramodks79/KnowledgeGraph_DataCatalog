@@ -44,7 +44,8 @@ For database storage, configure Neo4j credentials :
 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgments
+
+**Acknowledgments**
 
     LangChain: For the excellent graph transformation capabilities
     Google AI: For providing the Gemini models
